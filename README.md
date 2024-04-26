@@ -44,7 +44,7 @@ To run this application, follow these steps:
 4. Build the application:
 
     ```
-    go build
+    go build ./cmd/goprojectinit/
     ```
 
 5. Run the application:
