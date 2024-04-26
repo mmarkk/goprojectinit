@@ -13,7 +13,7 @@ This CLI tool simplifies the setup of a new Go project by automatically generati
 ## Directory Structure
 
 -   `cmd`:
--   `cmd/appName`: Replace "appName" with your actual application name.
+-   `cmd/<appName>`: <appname> will be replaced with the application name you enter
 -   `configs`:
 -   `internal`:
 -   `pkg`:
