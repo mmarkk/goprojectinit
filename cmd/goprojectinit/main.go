@@ -18,7 +18,6 @@ func main() {
 	directories := []string{
 		"cmd",
 		"cmd/" + appName,
-		"cmd/" + appName + "/main.go",
 		"configs",
 		"internal",
 		"pkg",
