@@ -1,6 +1,4 @@
-# Application Name
-
-Replace "Application Name" with your actual application name.
+# goprojectinit
 
 ## Description
 
