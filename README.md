@@ -2,7 +2,7 @@
 
 ## Description
 
-goprojectinit is a Go application. 
+goprojectinit is a Go application which:
 
 -   Prompts the user for the application name.
 -   Creates a base directory with the given application name.
