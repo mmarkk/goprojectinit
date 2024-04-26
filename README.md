@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a Go application. Replace this line with a brief description of your application.
+goprojectinit is a Go application. 
 
 -   Prompts the user for the application name.
 -   Creates a base directory with the given application name.
