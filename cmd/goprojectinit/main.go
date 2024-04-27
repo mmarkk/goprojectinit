@@ -20,6 +20,7 @@ func main() {
 		"cmd/" + appName,
 		"configs",
 		"internal",
+		"internal/middleware",
 		"pkg",
 		"scripts",
 		"vendor",
